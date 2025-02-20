@@ -1,0 +1,17 @@
+:root{
+    --background-color: black;
+    --font-color: white;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: var(--font-color);
+
+}
+body{
+    background-color: var(--background-color);
+}
+.container{
+    margin: 0px 64px;
+}
