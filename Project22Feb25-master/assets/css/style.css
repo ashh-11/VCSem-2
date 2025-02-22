@@ -1,0 +1,16 @@
+:root {
+    --primary-font: cursive;
+    --background-color: black;
+    --font-color: white;
+}
+* {
+    font-family: var(--primary-font);
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: var(--font-color);
+}
+body {
+    padding: 0px 64px;
+    background-color: var(--background-color);    
+}
